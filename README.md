@@ -1,51 +1,26 @@
-# 🐍 DigiSkills Python - Assignment 1 (Hands-on Exercise)
+# DigiSkills Python - Assignment 1
 
-Welcome to the **DigiSkills Python Assignment 1** repository! This project contains complete, structured, and tested solutions for the first hands-on exercise of the DigiSkills Python Course. 
+A clean and modular implementation of the DigiSkills Python Hands-on Exercise 1.
 
-It covers fundamental to intermediate Python concepts including conditional logic, data manipulation using NumPy, and Object-Oriented Programming (OOP).
+## Modules Covered
 
----
+* **Sales Tax Calculation:** Conditional logic and formatted numerical outputs.
+* **NumPy Array Manipulation:** Vectorized operations, array slicing, and matrix reshaping.
+* **Bank Account System:** Object-Oriented Programming (OOP) covering classes, methods, and balance validation.
 
-## 📌 Project Overview
+## Tech Stack
 
-This repository demonstrates practical implementation across three core Python domains:
+* Python 3.x
+* NumPy
 
-1. **Sales Tax Calculation:** Basic arithmetic operations, conditional logic, and formatting numerical outputs.
-2. **NumPy Array Manipulation:** Numerical computing, array slicing, reshaping, and performing vectorized operations.
-3. **OOP-Based Bank Account System:** Concepts of Object-Oriented Programming such as classes, constructors, methods, state management, and basic validation.
+## Quick Start
 
----
+```bash
+# Clone the repository
+git clone [https://github.com/your-username/DigiSkills-Python-Assignment-1.git](https://github.com/your-username/DigiSkills-Python-Assignment-1.git)
 
-## 🚀 Featured Tasks & Solutions
+# Install NumPy
+pip install numpy
 
-### 1. Sales Tax Calculator 💰
-- **Concept:** Control Flow & Data Types
-- **Details:** Computes the total price of items including applicable sales tax percentages based on user input or defined categories.
-
-### 2. NumPy Array Operations 🔢
-- **Concept:** Data Science Fundamentals
-- **Details:** Leverages `numpy` for efficient array creation, indexing, performing element-wise arithmetic, and data transformations.
-
-### 3. Bank Account Management System 🏦
-- **Concept:** Object-Oriented Programming (OOP)
-- **Details:** A custom `BankAccount` class supporting:
-  - Account creation with initial balance
-  - Deposit and Withdrawal operations with checks for insufficient funds
-  - Real-time balance inquiry
-
----
-
-## 🛠️ Tech Stack & Requirements
-
-- **Language:** Python 3.x
-- **Libraries Used:** 
-  - `numpy`
-
----
-
-## ⚙️ How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/DigiSkills-Python-Assignment-1.git](https://github.com/your-username/DigiSkills-Python-Assignment-1.git)
-   cd DigiSkills-Python-Assignment-1
+# Run the program
+python solution.py
