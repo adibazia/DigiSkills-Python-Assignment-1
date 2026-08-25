@@ -17,7 +17,7 @@ A clean and modular implementation of the DigiSkills Python Hands-on Exercise 1.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/DigiSkills-Python-Assignment-1.git](https://github.com/your-username/DigiSkills-Python-Assignment-1.git)
+git clone [https://github.com/adibazia/DigiSkills-Python-Assignment-1.git](https://github.com/adibazia/DigiSkills-Python-Assignment-1.git)
 
 # Install NumPy
 pip install numpy
